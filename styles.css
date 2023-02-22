@@ -1,0 +1,60 @@
+{
+    margin=0;
+    padding=0;
+    border-box:none;
+}
+.content1{
+    width:60%;
+    height:100vh;
+    float:left;
+    }
+
+.we-are{
+    font-family: 'Josefin Sans', sans-serif;
+    color:rgba(203,160,163,255);
+    display:inline-block;
+    letter-spacing:10px;
+    font-weight:300;
+}
+.coming{
+    color:#433a3b;
+    letter-spacing:8px;
+    margin-top:-60px;
+    font-size:xx-large;
+    font-family: 'Nunito Sans', sans-serif;
+}
+p{
+    color:rgba(203,160,163,255);
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:800;
+    word-spacing:4px;
+    
+}
+button{
+    color:rgb(2, 2, 19);
+    width:20px;
+    height:20px;
+    border-radius:20px;
+    background-image: linear-gradient(to right, rgb(226, 125, 187));
+    border:none;
+    margin-left:-78px;
+    display:inline-block;
+    cursor:pointer;
+    margin-top:50px;
+
+}
+::placeholder{
+    color:rgba(203,160,163,255);
+    
+
+}
+.btn{
+    display:flex;
+    float:right;
+}
+.content2{
+    width:40%;
+    height:100vh;
+    float:right;
+    
+}
